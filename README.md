@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+![movie app](https://github.com/yash2851/Movie-Information-App/assets/130960433/0fbb7c4b-64b4-4d8d-b083-ddb2868ffa1c)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
